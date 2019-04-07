@@ -1,0 +1,7 @@
+1.how the coordinates defined in web page renderred by browser.
+refrence to https://javascript.info/coordinates
+two types:
+	1)viewport=windows,(css[position:fixed]) 
+	2)document(css[position:absolute])
+
+2.
